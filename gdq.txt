@@ -1,3 +1,5 @@
+# copy from https://github.com/cmliu
+# 后续会根据情况增减
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
@@ -23,7 +25,6 @@ https://raw.githubusercontent.com/mai19950/sites/main/sub/v2ray/base64
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/shahidbhutta/Clash/main/Router
-# copy from https://github.com/cmliu
 https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
 https://raw.githubusercontent.com/free18/v2ray/main/c.yaml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
