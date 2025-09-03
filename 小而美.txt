@@ -1,4 +1,5 @@
 # copy from beck
+# 可以包含github和非github
 https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml
 https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc0.yaml
 https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/clash/naidounode.txt
@@ -28,5 +29,3 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray/v2rayshare.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/clash/naidounode.txt
-https://sub.fqzsnai.ggff.net/auto
-https://ys.jiedianxielou.workers.dev
