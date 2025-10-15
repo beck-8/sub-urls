@@ -2,7 +2,6 @@
 # 可以包含github和非github
 https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml
 https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc0.yaml
-https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/clash/naidounode.txt
 https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
