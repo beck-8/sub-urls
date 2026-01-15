@@ -26,3 +26,4 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray/v2rayshare.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/clash/naidounode.txt
+https://raw.githubusercontent.com/yuanzhou029/APK/refs/heads/main/usb.txt
