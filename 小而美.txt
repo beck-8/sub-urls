@@ -1,3 +1,8 @@
 # copy from beck
 # 可以包含github和非github
 
+# myself
+https://raw.githubusercontent.com/beck-8/sub-urls/refs/heads/main/sub.txt
+
+https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f8fb5683f0cf6f938bccf053c55ead62
+https://d7z41.no-mad-world.club/link/ZYnfyGNQ5kKJ3G68?clash=3&extend=1
